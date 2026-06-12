@@ -1,0 +1,5 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+7,Transvilles,http://www.transvilles.com/,Europe/Paris,fr,03 27 14 52 52
+2,Arc-en-Ciel 2,http://www.arc-en-ciel2.fr/,Europe/Paris,fr,03 20 89 30 30
+3,Arc-en-Ciel 3,http://www.arc-en-ciel3.fr/,Europe/Paris,fr,0 820 201 337
+4,Arc-en-Ciel 4,http://www.arcenciel4.com/,Europe/Paris,fr,03.27.61.52.53
